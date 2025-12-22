@@ -1,13 +1,31 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67077b&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=67077b&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+SEJA+BEM+VINDO!;+MEU+NOME+É+ALANA+SILVA;+ESTUDO+ANÁLISE+E+DESENVOLVIMENTO+DE+SISTEMAS)](https://git.io/typing-svg) 
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=alana0vit&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alana0vit&bg_color=000000&color=79158e&line=79158e&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p align="left">
+  🦄 Linguagens: **Python, JavaScript e TypeScript**
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BFKeRURi7SJ%2BeAKa7EzsNxw%3D%3D)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:alana.vit.ms@gmail.com)
-  
-### Studying in this moment:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<p align="left">
+  💼 Ferramentas: ** AWS, GLPI, Zabbix, Datadog, ...**
+</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67077b&height=120&section=footer"/>
+<p align="left">
+  💌 Informações, network ou dúvidas, entre em contato em: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=alana.vit.ms@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alana-silva-ms/" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/alana_ahh/" alt="Instagram"/></a>
+</p>
