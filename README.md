@@ -18,6 +18,3 @@
 <hr>
 <h3 align="left">👩‍💻 Sobre mim</h3>
 <p align="left">Desenvolvedora e Cloud Trainee<br><br>- 🔭 Stack: Banck-end<br>- 📚 Atualmente estudando Spring Boot e Terraform<br>- ⚡ Professora no tempo livre</p>
-<h3 align="left">🔥 Meu Stats :</h3>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=alana0vit&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> </div>
