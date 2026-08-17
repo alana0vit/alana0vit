@@ -17,4 +17,4 @@
 </div>
 <hr>
 <h3 align="left">👩‍💻 Sobre mim</h3>
-<p align="left">Desenvolvedora e Cloud Trainee<br><br>- 🔭 Stack: Banck-end<br>- 📚 Atualmente estudando Spring Boot e Terraform<br>- ⚡ Professora no tempo livre</p>
+<p align="left">Analista de Infraestrutura Cloud Jr.<br><br>- 🔭 Stack: Banck-end<br>- 📚 Atualmente estudando Spring Boot e Terraform<br>- ⚡ Professora no tempo livre</p>
